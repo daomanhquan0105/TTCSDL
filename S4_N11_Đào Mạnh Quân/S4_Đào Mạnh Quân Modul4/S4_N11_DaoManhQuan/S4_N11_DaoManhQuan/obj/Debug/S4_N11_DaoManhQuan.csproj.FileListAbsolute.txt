@@ -1,0 +1,38 @@
+G:\sql server\Form\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\bin\Debug\S4_N11_DaoManhQuan.exe.config
+G:\sql server\Form\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\bin\Debug\S4_N11_DaoManhQuan.exe
+G:\sql server\Form\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\bin\Debug\S4_N11_DaoManhQuan.pdb
+G:\sql server\Form\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\bin\Debug\EntityFramework.dll
+G:\sql server\Form\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\bin\Debug\EntityFramework.SqlServer.dll
+G:\sql server\Form\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\bin\Debug\EntityFramework.xml
+G:\sql server\Form\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\bin\Debug\EntityFramework.SqlServer.xml
+G:\sql server\Form\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\obj\Debug\S4_N11_DaoManhQuan.csprojAssemblyReference.cache
+G:\sql server\Form\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\obj\Debug\S4_N11_DaoManhQuan.Properties.Resources.resources
+G:\sql server\Form\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\obj\Debug\S4_N11_DaoManhQuan.View.FormBaoCaoTonKho.resources
+G:\sql server\Form\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\obj\Debug\S4_N11_DaoManhQuan.csproj.GenerateResource.cache
+G:\sql server\Form\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\obj\Debug\S4_N11_DaoManhQuan.csproj.CopyComplete
+G:\sql server\Form\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\obj\Debug\S4_N11_DaoManhQuan.exe
+G:\sql server\Form\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\obj\Debug\S4_N11_DaoManhQuan.pdb
+G:\sql server\Form\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\obj\Debug\S4_N11_DaoManhQuan.View.FormNhanVien.resources
+G:\sql server\Form\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\obj\Debug\S4_N11_DaoManhQuan.Controller.FormControl.resources
+G:\sql server\Form\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\obj\Debug\Interop.LCC11.dll
+G:\sql server\Form\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\obj\Debug\Interop.MsoEuro.dll
+G:\sql server\Form\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\obj\Debug\S4_N11_DaoManhQuan.csproj.ResolveComReference.cache
+G:\sql server\New folder\New folder\S4_N11_Đào Mạnh Quân\S4_Đào Mạnh Quân Modul4\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\bin\Debug\S4_N11_DaoManhQuan.exe.config
+G:\sql server\New folder\New folder\S4_N11_Đào Mạnh Quân\S4_Đào Mạnh Quân Modul4\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\bin\Debug\S4_N11_DaoManhQuan.exe
+G:\sql server\New folder\New folder\S4_N11_Đào Mạnh Quân\S4_Đào Mạnh Quân Modul4\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\bin\Debug\S4_N11_DaoManhQuan.pdb
+G:\sql server\New folder\New folder\S4_N11_Đào Mạnh Quân\S4_Đào Mạnh Quân Modul4\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\bin\Debug\EntityFramework.dll
+G:\sql server\New folder\New folder\S4_N11_Đào Mạnh Quân\S4_Đào Mạnh Quân Modul4\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\bin\Debug\EntityFramework.SqlServer.dll
+G:\sql server\New folder\New folder\S4_N11_Đào Mạnh Quân\S4_Đào Mạnh Quân Modul4\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\bin\Debug\EntityFramework.xml
+G:\sql server\New folder\New folder\S4_N11_Đào Mạnh Quân\S4_Đào Mạnh Quân Modul4\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\bin\Debug\EntityFramework.SqlServer.xml
+G:\sql server\New folder\New folder\S4_N11_Đào Mạnh Quân\S4_Đào Mạnh Quân Modul4\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\obj\Debug\S4_N11_DaoManhQuan.csprojAssemblyReference.cache
+G:\sql server\New folder\New folder\S4_N11_Đào Mạnh Quân\S4_Đào Mạnh Quân Modul4\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\obj\Debug\Interop.LCC11.dll
+G:\sql server\New folder\New folder\S4_N11_Đào Mạnh Quân\S4_Đào Mạnh Quân Modul4\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\obj\Debug\Interop.MsoEuro.dll
+G:\sql server\New folder\New folder\S4_N11_Đào Mạnh Quân\S4_Đào Mạnh Quân Modul4\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\obj\Debug\S4_N11_DaoManhQuan.csproj.ResolveComReference.cache
+G:\sql server\New folder\New folder\S4_N11_Đào Mạnh Quân\S4_Đào Mạnh Quân Modul4\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\obj\Debug\S4_N11_DaoManhQuan.Controller.FormControl.resources
+G:\sql server\New folder\New folder\S4_N11_Đào Mạnh Quân\S4_Đào Mạnh Quân Modul4\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\obj\Debug\S4_N11_DaoManhQuan.Properties.Resources.resources
+G:\sql server\New folder\New folder\S4_N11_Đào Mạnh Quân\S4_Đào Mạnh Quân Modul4\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\obj\Debug\S4_N11_DaoManhQuan.View.FormBaoCaoTonKho.resources
+G:\sql server\New folder\New folder\S4_N11_Đào Mạnh Quân\S4_Đào Mạnh Quân Modul4\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\obj\Debug\S4_N11_DaoManhQuan.View.FormNhanVien.resources
+G:\sql server\New folder\New folder\S4_N11_Đào Mạnh Quân\S4_Đào Mạnh Quân Modul4\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\obj\Debug\S4_N11_DaoManhQuan.csproj.GenerateResource.cache
+G:\sql server\New folder\New folder\S4_N11_Đào Mạnh Quân\S4_Đào Mạnh Quân Modul4\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\obj\Debug\S4_N11_DaoManhQuan.csproj.CopyComplete
+G:\sql server\New folder\New folder\S4_N11_Đào Mạnh Quân\S4_Đào Mạnh Quân Modul4\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\obj\Debug\S4_N11_DaoManhQuan.exe
+G:\sql server\New folder\New folder\S4_N11_Đào Mạnh Quân\S4_Đào Mạnh Quân Modul4\S4_N11_DaoManhQuan\S4_N11_DaoManhQuan\obj\Debug\S4_N11_DaoManhQuan.pdb

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="f7c0c08301e94599965832b2204226ca" Name="Diagram1" ZoomLevel="37">
+        <EntityTypeShape EntityType="S4_N11_QuanLyKhoSuaModel.CTPhieuNhap" Width="1.5" PointX="5.25" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="S4_N11_QuanLyKhoSuaModel.CTPhieuXuat" Width="1.5" PointX="8.25" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="S4_N11_QuanLyKhoSuaModel.LoaiSP" Width="1.5" PointX="0.75" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="S4_N11_QuanLyKhoSuaModel.NhanVien" Width="1.5" PointX="0.75" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="S4_N11_QuanLyKhoSuaModel.PhieuNhap" Width="1.5" PointX="3" PointY="7.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="S4_N11_QuanLyKhoSuaModel.PhieuXuat" Width="1.5" PointX="6" PointY="7.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="S4_N11_QuanLyKhoSuaModel.PhongBan" Width="1.5" PointX="1.5" PointY="12" IsExpanded="true" />
+        <EntityTypeShape EntityType="S4_N11_QuanLyKhoSuaModel.SanPham" Width="1.5" PointX="3" PointY="2.375" IsExpanded="true" />
+        <AssociationConnector Association="S4_N11_QuanLyKhoSuaModel.FK__CTPhieuNha__MaPN__49C3F6B7" ManuallyRouted="false" />
+        <AssociationConnector Association="S4_N11_QuanLyKhoSuaModel.FK__CTPhieuNha__MaSP__4AB81AF0" ManuallyRouted="false" />
+        <AssociationConnector Association="S4_N11_QuanLyKhoSuaModel.FK__CTPhieuXua__MaPX__4D94879B" ManuallyRouted="false" />
+        <AssociationConnector Association="S4_N11_QuanLyKhoSuaModel.FK__CTPhieuXua__MaSP__4E88ABD4" ManuallyRouted="false" />
+        <AssociationConnector Association="S4_N11_QuanLyKhoSuaModel.FK__SanPham__MaLoai__46E78A0C" ManuallyRouted="false" />
+        <AssociationConnector Association="S4_N11_QuanLyKhoSuaModel.FK__NhanVien__MaPB__3A81B327" ManuallyRouted="false" />
+        <AssociationConnector Association="S4_N11_QuanLyKhoSuaModel.FK__PhieuNhap__MaNV__3E52440B" ManuallyRouted="false" />
+        <AssociationConnector Association="S4_N11_QuanLyKhoSuaModel.FK__PhieuXuat__MaNV__4222D4EF" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
